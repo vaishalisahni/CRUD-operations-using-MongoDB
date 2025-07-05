@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mongodb mongoose",
   "license": "MIT",
-  "author": "",
+  "author": "Vaishali Sahni",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
