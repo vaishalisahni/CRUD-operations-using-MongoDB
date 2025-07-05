@@ -1,7 +1,6 @@
 const express = require('express');
 
 const mongoose = require('mongoose');
-const { type } = require('os');
 
 const port = 8000;
 const app = express();
